@@ -26,7 +26,7 @@ Documentations : https://github.com/Tori0101en/-FLAVORS-_-Group06-/tree/main/Doc
 
 =======================================
 
-Published website : https://l3nhan.github.io/doodle_group01/
+Published website : https://tori0101en.github.io/-FLAVORS-_-Group06-/
 
 =======================================
 
