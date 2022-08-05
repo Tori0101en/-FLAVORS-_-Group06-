@@ -22,7 +22,7 @@ Vũ Văn Cao Trí (Student1376119)
 
 =======================================
 
-Documentations : https://github.com/L3nhan/doodle_group01/tree/main/Documentations
+Documentations : https://github.com/Tori0101en/-FLAVORS-_-Group06-/tree/main/Documentations
 
 =======================================
 
